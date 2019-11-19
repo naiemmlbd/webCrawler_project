@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package com.example.multithreaded_webcrawler;
 
 import android.graphics.Color;
 import android.os.AsyncTask;

@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package com.example.multithreaded_webcrawler;
 
 import android.content.Context;
 

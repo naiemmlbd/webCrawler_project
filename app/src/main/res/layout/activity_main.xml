@@ -9,7 +9,7 @@
     android:paddingLeft="1dp"
     android:paddingRight="1dp"
     android:paddingTop="1dp"
-    tools:context="com.example.myapplication.MainActivity"
+    tools:context="com.example.multithreaded_webcrawler.MainActivity"
     >
 
     <EditText
